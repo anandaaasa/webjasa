@@ -160,10 +160,10 @@ section{
     overflow: hidden;
 }
 .box-img img{
-    width: 100%;
-    height: auto;
-    object-fit: contain;
-    display: block;
+    width: 100% !important;
+    height: auto !important;
+    object-fit: contain !important;
+    display: block !important;
 }
 .box h2{
     font-size: 1.3rem;
